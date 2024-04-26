@@ -17,12 +17,12 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine
 ```
-git clone https://github.com/shivain2393/Random-Number-Guesser.git
+git clone https://github.com/shivain2393/Random-Number-Guesser-React.git
 ```
 2. Navigate to the project directory in your terminal
 
 ```
-cd Random-Number-Guesser
+cd Random-Number-Guesser-React
 ```
 3. Install dependencies
 ```
